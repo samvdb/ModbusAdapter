@@ -1,0 +1,11 @@
+{
+    "name": "ModbusAdapter",
+    "description": "Modbus Wifi TCP adapter to RTU",
+    "keywords": "modbus, wifi, esp",
+    "repository": {
+        "type": "git",
+        "repository": "https://github.com/samvdb/ModbusAdapter.git"
+    },
+    "version": "1.0.0",
+    "framework": "arduino"
+  }
